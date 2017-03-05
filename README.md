@@ -12,38 +12,52 @@ Screenshoot1
 
 <img src="1.PNG">
 
-Screenshoot2
+Screenshhot2
 
-<img src="2.PNG">
+<img src="1a.PNG">
 
 Screenshoot3
 
-<img src="3.PNG">
+Setelah anda berhasil Sign In, anda akan masuk kehalaman selanjutnya seperti ini :
+
+<img src="2.PNG">
 
 Screenshoot4
 
-<img src="4.PNG">
+Isi form untuk menginputkan data, kemudian klik button save dan akan keluar informasi sukses (screenshoot 5)
+
+<img src="3.PNG">
 
 Screenshoot5
 
-<img src="5.PNG">
+Klik button Refresh untuk mengetahui data yang telah dimasukkan
+
+<img src="4.PNG">
 
 Screenshoot6
 
-<img src="6.PNG">
+Klik button Clear untuk menghapus isian pada form tersebut
+
+<img src="5.PNG">
 
 Screenshoot7
 
-<img src="7.PNG">
+Jika anda ingin menghapus data tersebut klik data pada tabel, kemudian klik button delete dan kemudian refresh (screenshoot 7,8 & 9)
+
+<img src="6.PNG">
 
 Screenshoot8
 
-<img src="8.PNG">
+<img src="7.PNG">
 
 Screenshoot9
 
+<img src="8.PNG">
+
+Screenshoot10
+
 <img src="9.PNG">
 
-Screenshhot10
+Screenshhot11
 
 <img src="10.PNG">
